@@ -1,0 +1,12 @@
+orangeHRM\TestCases\Inputform_001.class
+orangeHRM\TestCases\TC_LoginDDT_002.class
+orangeHRM\pageObject\LeavePage.class
+orangeHRM\TestCases\BaseClass.class
+orangeHRM\Utilities\XLUtils.class
+orangeHRM\TestCases\Inputform_002.class
+orangeHRM\pageObject\SeleniumEasy.class
+orangeHRM\TestCases\Leaves_TC_001.class
+orangeHRM\pageObject\LoginPage.class
+orangeHRM\TestCases\TC_LoginTest_001.class
+orangeHRM\Utilities\Reporting.class
+orangeHRM\Utilities\ReadConfig.class
